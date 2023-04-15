@@ -1,0 +1,86 @@
+
+before  going to far let understand what is  a statement ?
+so a statement is a line of code commanding a task ,
+Every program consists of a sequence of statements
+a statement is made up with one or more {expressions}
+
+
+/*
+Data types : 
+
+Number,
+String,
+boolean,
+undefined
+
+
+note !!!!!   
+when you print a result and the result is NaN =>
+what the NaN abreviation mean not a number thats all
+*/
+
+
+
+
+
+
+/*
+
+Expressions is an made up by operator an variable or any data type,
+
+//oprator is keyword and symboles,
+//operands is  a variable name , function also
+
+type of expressions 
+
+1- declaring a variable.
+
+2- assigning a value to a variable,
+
+3- prefoming an evaluation to return a single value
+
+
+
+
+//operator js
+
+
+assigment operator     =>    =
+arithmetic operator    =>    +,-,/,*,%
+increment , decrement  =>    ++,--
+
+
+
+logical operator  => || , && ,!= ,== , ===, !==
+
+object operator 
+
+.  => allow you to acces method inside an object
+{} => code block operator  
+
+*/
+
+
+/*
+function and how they work in js 
+
+we can assigne a  function to a variable for example if we have randomfunction()
+we can assigne that random function to a variable like this
+
+let a = randomfunction;
+
+and then call the a as a function console.log(a()) ;
+
+
+*/
+
+
+/**
+the diffrence between th let keyword and the var keyword
+
+var keyword => attatche the variables to the global scope 
+
+
+
+
+*/
